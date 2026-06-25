@@ -1,1 +1,1 @@
-# English | Turkish Learn Docs
+# English | Turkish Training Docs
