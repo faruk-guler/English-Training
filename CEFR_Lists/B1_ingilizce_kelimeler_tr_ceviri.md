@@ -37,7 +37,7 @@
 | bet | bahse girmek / bahis |
 | bleed | kanamak |
 | blood | kan |
-| boarding | time biniş saati |
+| boarding time | biniş saati |
 | boarding-card | biniş kartı |
 | bone | kemik |
 | brake | fren |
@@ -58,7 +58,7 @@
 | communicate | iletişim kurmak |
 | compare | karşılaştırmak |
 | complain | şikâyet etmek |
-| connected | flight aktarmalı uçuş |
+| connected flight | aktarmalı uçuş |
 | consist | oluşmak |
 | contain | içermek |
 | convince | ikna etmek |
@@ -69,7 +69,7 @@
 | death | ölüm |
 | decrease | azalmak / azaltmak |
 | defend | savunmak |
-| departure | gate uçağa biniş kapısı |
+| departure gate | uçağa biniş kapısı |
 | destination | varış noktası / hedef |
 | destroy | yok etmek |
 | detail | detay / ayrıntı |
@@ -79,7 +79,7 @@
 | disease | hastalık |
 | dive | dalmak |
 | divide | bölmek |
-| domestic | flight iç hat uçuşu |
+| domestic flight | iç hat uçuşu |
 | drop | düşürmek / damla |
 | drug | ilaç / uyuşturucu |
 | dry | kuru / kurutmak |
@@ -234,7 +234,7 @@
 | support | desteklemek / destek |
 | survive | hayatta kalmak |
 | tail | kuyruk |
-| take | off havalanmak / çıkarmak |
+| take off | havalanmak / çıkarmak |
 | target | hedef |
 | temporary | geçici |
 | tiny | minik / çok küçük |

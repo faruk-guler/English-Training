@@ -85,7 +85,7 @@
 | bird | kuş, manita, kus |
 | birthday | yaş günü, doğum günü |
 | black | siyahi, kara, siyah |
-| blog | web günlüğü, internet günlüğü, bunları diğer kullanıcılarla |
+| blog | web günlüğü, internet günlüğü, blog |
 | blonde | sarışın, sarışın kız, sarı |
 | blue | mavi, çarçur etmek, har vurup harman savurmak |
 | boat | tekne, bot, kayık |

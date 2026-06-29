@@ -888,7 +888,7 @@
 | preach | vaaz etmek, vaaz vermek, telkin etmek |
 | precedent | teamül, örnek oluşturan durum, gelenek |
 | precision | kesinlik, hassasiyet, sıhhat |
-| predator | yırtıcı hayvan, avcı hayvan, sömüren, faydalanan kişi veya |
+| predator | yırtıcı hayvan, avcı hayvan, sömürücü kişi |
 | predecessor | aileden gelen, babadan gelme, öncel |
 | predominantly | çoğu, genelde, ağırlıklı olarak |
 | pregnancy | hamilelik, gebe olma, gebelik |

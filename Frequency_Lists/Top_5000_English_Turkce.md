@@ -1232,7 +1232,7 @@ Bu dosya, en sık kullanılan ilk 1000 kelimenin ardından gelen, sıklık derec
 | 2226 | missing | eksik |
 | 2227 | died | öldü (geçmiş) |
 | 2228 | approximately | yaklaşık olarak |
-| 2229 | domestic | flight iç hat uçuşu |
+| 2229 | domestic flight | iç hat uçuşu |
 | 2230 | sitemap | site haritası |
 | 2231 | recommendations | öneriler |
 | 2232 | moved | etkilenmiş |
@@ -1466,7 +1466,7 @@ Bu dosya, en sık kullanılan ilk 1000 kelimenin ardından gelen, sıklık derec
 | 2460 | frequently | sık sık |
 | 2461 | revenue | gelir |
 | 2462 | measure | ölçmek / ölçü |
-| 2463 | changing | room soyunma kabini |
+| 2463 | changing room | soyunma kabini |
 | 2464 | votes | oylar |
 | 2465 | du | du |
 | 2466 | duty | görev |
@@ -1773,7 +1773,7 @@ Bu dosya, en sık kullanılan ilk 1000 kelimenin ardından gelen, sıklık derec
 | 2767 | ch | ch |
 | 2768 | increasing | artan |
 | 2769 | majority | çoğunluk |
-| 2770 | connected | flight aktarmalı uçuş |
+| 2770 | connected flight | aktarmalı uçuş |
 | 2771 | christ | İsa |
 | 2772 | dan | dan |
 | 2773 | dogs | köpekler |

@@ -28,9 +28,9 @@
 | cash | nakit |
 | catch | yakalamak |
 | chance | şans / ihtimal |
-| changing | room soyunma kabini |
+| changing room | soyunma kabini |
 | chess | satranç |
-| chewing | gum sakız |
+| chewing gum | sakız |
 | chin | çene |
 | choose | seçmek |
 | climb | tırmanmak |
@@ -186,7 +186,7 @@
 | refuse | reddetmek |
 | relation | ilişki / akraba |
 | relax | rahatlamak |
-| remote | control uzaktan kumanda |
+| remote control | uzaktan kumanda |
 | reply | cevap vermek / cevap |
 | report | rapor / bildirmek |
 | retire | emekli olmak |

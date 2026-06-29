@@ -1,4 +1,4 @@
-﻿# Ä°ngilizcede En Ã‡ok KullanÄ±lan 1500 Kelime
+# Ä°ngilizcede En Ã‡ok KullanÄ±lan 1500 Kelime
 
 ## En Ã‡ok KullanÄ±lan Kelimeler
 
@@ -1285,19 +1285,19 @@
 | Beneficial | faydalı |
 | Benefit | fayda, yarar |
 | Blame | suç, suçlamak |
-| Blink | Open and close, gözlerini kırpıştırmak |
+| Blink | gözlerini kırpıştırmak |
 | Bloom | çiçek açmak |
 | Blossom | çiçek açmak, canlanmak, gelişmek |
 | Boost | artırmak, yükseltmek |
 | Boundary | sınır |
 | Bound to | zorunlu, kesin, mutlaka |
 | Border | sınır |
-| Break | off kırılıp ayrılmak, ilişiğini kesmek; birdenbire durmak |
+| Break off | kırılıp ayrılmak, ilişiğini kesmek; birdenbire durmak |
 | Breakthrough | cepheyi yarıp geçmek; büyük buluş |
 | Briefly | kısa (biçimde), kısaca (özet olarak) |
 | Bring down | indirim yapmak, düşürmek |
 | Bruise | berelemek, ezmek; bere, ezik |
-| Brutality | Cruelty vahşilik |
+| Brutality / Cruelty | vahşilik, acımasızlık |
 | Budget | bütçe |
 | Bump | vurma, toslama; şiş, tümsek |
 | Burglar | (ev, dükkan) soyan hırsız |
@@ -1653,14 +1653,14 @@
 | Propose | önerme, niyet etme, evlilik teklifi |
 | Prospects | başarı şansı |
 | Punctual | dakik |
-| Punctuality | Being on time |
+| Punctuality | dakiklik, dakik olma |
 | Purify | temizlemek, arındırmak, saflaştırmak |
 | Pursue | peşine düşmek, izini sürmek |
-| Put | off elbisesini çıkartmak |
+| Put off | ertelemek, soğutmak |
 | Quarter | çeyrek; bölge, semt; askeri kışla |
 | Quartet | dörtlü |
 | Raise | yukarı kaldırmak; artırmak; çocuk yetiştirmek |
-| Readily | Easily kolayca, seve seve |
+| Readily / Easily | kolayca, seve seve |
 | Readily | isteyerek, gönülden |
 | Recast | yeniden çıkarmak, değiştirmek |
 | Recent | yakında olmuş |

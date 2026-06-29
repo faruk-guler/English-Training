@@ -51,12 +51,12 @@
 | İce-cream | Dondurma |
 | Jacket | Ceket |
 | Jeep | Jip |
-| Lamb | Koyun |
+| Lamb | Kuzu |
 | Leg | Bacak |
 | Milk | Süt |
 | Monday | Pazartesi |
 | Mother | Anne |
-| Motorcycle | Motorbisiklet |
+| Motorcycle | Motosiklet |
 | Mouse | Fare |
 | Mouth | Ağız |
 | Nine | 9 |
@@ -71,10 +71,10 @@
 | Plane | Uçak |
 | Police car | Polis arabası |
 | Purple | Mor |
-| Pygamas | Pijama |
+| Pyjamas | Pijama |
 | Red | Kırmızı |
 | Rubber | Silgi |
-| Sacks | Çorap |
+| Socks | Çorap |
 | Saturday | Cumartesi |
 | School | Okul |
 | Scissors | Makas |
