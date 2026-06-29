@@ -122,3 +122,11 @@
 | swim | swam | swum | yüzmek |
 | take | took | taken | almak, götürmek |
 | teach | taught | taught | öğretmek |
+| tear | tore | torn | yırtmak |
+| tell | told | told | anlatmak |
+| think | thought | thought | düşünmek |
+| throw | threw | thrown | fırlatmak |
+| understand | understood | understood | anlamak |
+| wake | woke | woken | uyanmak |
+| wear | wore | worn | giymek |
+| write | wrote | written | yazmak |
