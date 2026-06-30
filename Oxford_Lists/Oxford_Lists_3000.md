@@ -145,7 +145,7 @@
 | amuse | eğlendirmek |
 | amused | eğlenerek |
 | amusing | eğlenceli |
-| an indefinite |  |
+| an indefinite | bir (belirsiz tanımlık) |
 | analyse | çözümlemek |
 | analysis | analiz |
 | ancient | antik |
@@ -510,7 +510,7 @@
 | can | yapabilmek, konserve kutusu |
 | can 1 | kutu 1 |
 | can 2 | kutu 2 |
-| can1 modal |  |
+| can1 modal | -ebilmek, -abilmek (yetenek/izin) |
 | cancel | iptal etmek |
 | cancer | kanser |
 | candidate | aday |
@@ -818,7 +818,7 @@
 | cough | öksürük |
 | coughing | öksürme |
 | could | abilir |
-| could modal |  |
+| could modal | -ebilmek, -abilmek (geçmiş yetenek/rica) |
 | council | konsey |
 | count | miktar |
 | count on | güvenmek |
@@ -1695,7 +1695,7 @@
 | have back | geri alabilir |
 | have on | sahip |
 | have to | zorunda |
-| have to modal |  |
+| have to modal | -mek zorunda olmak |
 | he | o |
 | head | kafa |
 | headache | baş ağrısı |
@@ -1743,7 +1743,7 @@
 | hire | kiralama |
 | hire out | kiraya vermek |
 | his | onun |
-| historic |  |
+| historic | tarihi, tarihsel önemi olan |
 | historical | tarihi |
 | history | tarih |
 | hit | isabet |
@@ -1768,7 +1768,7 @@
 | hope | umut |
 | horizontal | yatay |
 | horn | boynuz |
-| horrible |  |
+| horrible | berbat, korkunç |
 | horror | korku |
 | horse | at |
 | hospital | hastane |
@@ -2040,7 +2040,7 @@
 | lead 1 | 1 kurşun |
 | leader | önder |
 | leadership | başkanlık |
-| leading |  |
+| leading | önde gelen, lider konumdaki |
 | leading 1 | 1 lider |
 | leaf | yaprak |
 | league | lig |
@@ -2093,7 +2093,7 @@
 | liquid | sıvı |
 | list | liste |
 | listen | dinlemek |
-| listener |  |
+| listener | dinleyici |
 | literature | edebiyat |
 | litre | litre (hacim birimi) |
 | little | küçük |
@@ -2147,7 +2147,7 @@
 | lovely | güzel |
 | lover | sevgili |
 | low | düşük |
-| lower |  |
+| lower | düşürmek, indirmek; daha alt |
 | loyal | sadık |
 | luck | şans |
 | lucky | şanslı |
@@ -2204,7 +2204,7 @@
 | matter | önemli olmak |
 | maximum | maksimum |
 | May | Mayıs |
-| may modal |  |
+| may modal | -ebilmek, -abilmek (olasılık/izin) |
 | maybe | olabilir |
 | mayor | belediye Başkanı |
 | me | ben mi |
@@ -2244,7 +2244,7 @@
 | middle | orta |
 | midnight | gece yarısı |
 | might | belki |
-| might modal |  |
+| might modal | -ebilmek, -abilmek (olasılık) |
 | mild | hafif |
 | mile | mil |
 | military | askeri |
@@ -2328,7 +2328,7 @@
 | musical | müzikal |
 | musician | müzisyen |
 | must | zorunlu |
-| must modal |  |
+| must modal | -meli, -malı (zorunluluk) |
 | my | benim |
 | myself | kendim |
 | mysterious | gizemli |
@@ -2340,7 +2340,7 @@
 | narrow | dar |
 | nation | ulus |
 | national | ulusal |
-| native |  |
+| native | yerli, anadili olan |
 | natural | doğal |
 | naturally | doğal olarak |
 | nature | doğa |
@@ -2489,13 +2489,13 @@
 | originally | aslında |
 | other | diğer |
 | otherwise | aksi takdirde |
-| ought modal |  |
+| ought modal | -meli, -malı (tavsiye/gereklilik) |
 | ought to | gerektiğini |
 | our | bizim |
 | ours | bizim |
 | ourselves | kendimizi |
 | out | dışarı |
-| outcome |  |
+| outcome | sonuç, netice |
 | outdoor | dış mekan |
 | outdoors | açık havada |
 | outer | dış |
@@ -2658,7 +2658,7 @@
 | plot | arsa |
 | plug | fiş |
 | plug in | eklenti |
-| plus |  |
+| plus | artı, fazlası |
 | plus 1 | artı 1 |
 | pocket | cep |
 | poem | şiir |
@@ -2911,7 +2911,7 @@
 | recent | son |
 | recently | son günlerde |
 | reception | resepsiyon |
-| recipe |  |
+| recipe | yemek tarifi |
 | reckon | hesaba katmak |
 | reckon on | güvenmek |
 | recognition | tanıma |
@@ -2921,7 +2921,7 @@
 | record | kayıt |
 | recording | kayıt |
 | recover | kurtarmak |
-| recycle |  |
+| recycle | geri dönüştürmek |
 | red | kırmızı |
 | reduce | azaltmak |
 | reduction | indirgeme |
@@ -2956,7 +2956,7 @@
 | relaxing | rahatlatıcı |
 | release | serbest bırakmak |
 | relevant | uygun |
-| reliable |  |
+| reliable | güvenilir |
 | relief | rahatlama |
 | religion | din |
 | religious | dini |
@@ -3147,7 +3147,7 @@
 | second | ikici |
 | second 1 | ikinci 1 |
 | secondary | ikincil |
-| secondly |  |
+| secondly | ikinci olarak, ikincisi |
 | secret | gizli |
 | secretary | sekreter |
 | secretly | gizlice |
@@ -3215,7 +3215,7 @@
 | shadow | gölge |
 | shake | sallamak |
 | shall | acak |
-| shall modal |  |
+| shall modal | -ecek, -acak (gelecek zaman/öneri) |
 | shallow | sığ |
 | shame | utanç |
 | shape | şekil |
@@ -3248,7 +3248,7 @@
 | shortly | kısaca |
 | shot | atış |
 | should | meli |
-| should modal |  |
+| should modal | -meli, -malı (tavsiye/gereklilik) |
 | shoulder | omuz |
 | shout | bağırmak |
 | show | göstermek |
@@ -3335,7 +3335,7 @@
 | snow | kar |
 | so | yani |
 | soap | sabun |
-| soccer |  |
+| soccer | futbol |
 | social | sosyal |
 | socially | sosyal olarak |
 | society | toplum |
@@ -3380,7 +3380,7 @@
 | special | özel |
 | specialist | uzman |
 | specially | özel olarak |
-| species |  |
+| species | tür, cins |
 | specific | özel |
 | specifically | özellikle |
 | speech | konuşma |
@@ -3639,7 +3639,7 @@
 | thank you | teşekkür ederim |
 | thanks | teşekkürler |
 | that | o |
-| the definite |  |
+| the definite | belirli tanımlık (the) |
 | the unemployed | işsiz |
 | the unexpected | beklenmeyen |
 | theatre | tiyatro |
@@ -3889,7 +3889,7 @@
 | used 1 | 1 kullanılan |
 | used 2 | 2 kullanılan |
 | used to | alışığım |
-| used to modal |  |
+| used to modal | eskiden yapardı (geçmiş alışkanlık) |
 | useful | işe yarar |
 | useless | faydasız |
 | user | kullanıcı |
@@ -3910,7 +3910,7 @@
 | vegetable | sebze |
 | vehicle | araç |
 | venture | girişim |
-| venue |  |
+| venue | mekan, etkinlik yeri |
 | version | versiyon |
 | vertical | dikey |
 | very | çok |
@@ -4022,10 +4022,10 @@
 | width | genişlik |
 | wife | kadın eş |
 | wild | vahşi |
-| wildlife |  |
+| wildlife | vahşi yaşam |
 | wildly | çılgınca |
 | will | niyet |
-| will modal |  |
+| will modal | -ecek, -acak (gelecek zaman/niyet) |
 | willing | istekli |
 | willingly | isteyerek |
 | willingness | isteklilik |
@@ -4068,7 +4068,7 @@
 | worst | en kötü |
 | worth | değer |
 | would | olurdu, -idi (kiplik yardımcı fiil) |
-| would modal |  |
+| would modal | -erdi, -ardı (geçmiş alışkanlık/koşul) |
 | wound | yara, yaralamak |
 | wound 1 | yara 1 |
 | wounded | yaralı |

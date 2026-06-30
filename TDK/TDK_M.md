@@ -788,7 +788,6 @@
 | **mandacılık** | mandate |
 | **mandagözü** | mandala |
 | **mandal** | peg |
-| **mandal** | peg |
 | **mandalina** | tangerine |
 | **mandallama** | latching |
 | **mandallamak** | latch |
@@ -1145,7 +1144,6 @@
 | **marsıvan eşeği** | idiot |
 | **marsıvan otu** | marshmallow |
 | **marş** | starter |
-| **marş etmek** | to march |
 | **marş etmek** | to march |
 | **marş marş** | starter starter |
 | **marşandiz** | marlin |
@@ -2074,7 +2072,6 @@
 | **menzil atı** | range horse |
 | **menzil atmak** | range |
 | **menzil beygiri** | range workhorse |
-| **menzil beygiri gibi koşmak** | run like a range horse |
 | **menzil beygiri gibi koşmak** | run like a range horse |
 | **menzil dikmek** | plant a range |
 | **menzil emini** | range assurance |

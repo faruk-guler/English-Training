@@ -1849,7 +1849,7 @@
 | **gitgide** | gradually |
 | **gitme** | don't go |
 | **gitmek** | drive off |
-| **gitmeli gelmeli** | must go must come |
+| **gitmeli gelmeli** | reciprocating / moving back and forth |
 | **gitsin** | let it go |
 | **gitti** | went |
 | **gitti de geldi** | he went and came |

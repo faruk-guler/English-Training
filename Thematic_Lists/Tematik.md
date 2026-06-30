@@ -48,7 +48,7 @@
 | Head | Baş |
 | Home | Yuva-ev |
 | Honey | Bal |
-| İce-cream | Dondurma |
+| Ice-cream | Dondurma |
 | Jacket | Ceket |
 | Jeep | Jip |
 | Lamb | Kuzu |

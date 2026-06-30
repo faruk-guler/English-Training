@@ -2881,12 +2881,12 @@
 | **hicri tarih** | hijri date |
 | **hicvedebilme** | ability to satirize |
 | **hicvedebilmek** | to satirize |
-| **hicvediş** | satiretooth |
+| **hicvediş** | manner of satirizing (noun) |
 | **hicvetme** | satire |
-| **hicvetmek** | satire |
+| **hicvetmek** | to satirize |
 | **hicviye** | satire |
 | **hiç** | any |
-| **hiç de** | none |
+| **hiç de** | not at all / not in the least |
 | **hiç değil** | not at all |
 | **hiç değilse (veya olmazsa)** | at least (or if not) |
 | **hiç kimse** | no one |
@@ -2898,7 +2898,7 @@
 | **hiççi** | nihilist |
 | **hiççilik** | nihilism |
 | **hiçe saymak (veya indirgemek)** | to disregard (or reduce) |
-| **hiçenderhiç** | nevereverever |
+| **hiçenderhiç** | absolute nothingness / complete nonentity |
 | **hiçleme** | nihilation |
 | **hiçlemek** | nullify |
 | **hiçleştirme** | nothingness |

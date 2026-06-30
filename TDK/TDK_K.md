@@ -593,7 +593,6 @@
 | **kafaya almak** | take it head on |
 | **kafaya çıkmak** | get high |
 | **kafaya girmek** | get into the head |
-| **kafaya girmek** | get into the head |
 | **kafaya takmak** | obsess over |
 | **kafayı (bir yere) vurmak** | hit the head (somewhere) |
 | **kafayı bulandırmak** | get confused |
@@ -2538,7 +2537,6 @@
 | **Karaman'ın koyunu sonra çıkar oyunu** | Karaman's sheep come out later game |
 | **karamandola** | karamandola |
 | **Karamanlı** | Karamanli |
-| **Karamanlı** | Karamanli |
 | **Karamanlı Türkçesi** | Karamanli Turkish |
 | **Karamanlıca** | Karamanlıca |
 | **Karamanlılık** | Karamanism |
@@ -3221,7 +3219,6 @@
 | **Kartezyen** | Cartesian |
 | **Kartezyenizm** | Cartesianism |
 | **kartlaşma** | carding |
-| **kartlaşma** | carding |
 | **kartlaşmak** | get into trouble |
 | **kartlı** | with card |
 | **kartlı telefon** | card phone |
@@ -3270,7 +3267,6 @@
 | **kasabalılık** | township |
 | **kasacı** | cashier |
 | **kasacılık** | cashiering |
-| **kasadan geçirmek** | checkout |
 | **kasadan geçirmek** | checkout |
 | **kasadar** | cashier |
 | **kasadarlık** | cashiering |
@@ -4403,7 +4399,6 @@
 | **kazevi** | Kazevi |
 | **kazgıç** | digger |
 | **kazı** | excavation |
-| **kazı** | excavation |
 | **kazı bilimci** | archaeologist |
 | **kazı bilimi** | excavation science |
 | **kazı bilimsel** | excavation scientific |
@@ -4438,7 +4433,6 @@
 | **kazıma** | scraping |
 | **kazıma resim** | engraving picture |
 | **kazımak** | delete |
-| **kazımamak** | not to scratch |
 | **kazımamak** | not to scratch |
 | **kazımık** | scrape |
 | **Kâzımkarabekir** | Kâzımkarabekir |
@@ -5134,8 +5128,7 @@
 | **kerim** | Karim |
 | **kerime** | kerime |
 | **kerimlik** | generosity |
-| **keriz** | cherry |
-| **keriz** | cherry |
+| **keriz** | gullible person / fool (slang) |
 | **keriz havası** | keriz weather |
 | **kerizci** | kerizci |
 | **kerizcilik** | arrogance |
@@ -6063,7 +6056,7 @@
 | **kırmacı** | crusher |
 | **kırmacılık** | crushing |
 | **kırmak** | break |
-| **kırmalı** | must break |
+| **kırmalı** | pleated / folded |
 | **kırmalık** | breakage |
 | **kırmasız** | without breaking |
 | **kırmız** | red |
@@ -6532,7 +6525,6 @@
 | **kıyı kordonu** | coastal promenade |
 | **kıyı seyri** | coastal navigation |
 | **kıyı tırmığı** | shore rake |
-| **kıyıcı** | chopper |
 | **kıyıcı** | chopper |
 | **kıyıcılık** | brutality |
 | **kıyıcılık etmek** | to brutalize |
@@ -7574,7 +7566,6 @@
 | **kolalatma** | lightening |
 | **kolalatmak** | to brighten |
 | **kolalayış** | ease |
-| **kolalı** | cola |
 | **kolalı** | cola |
 | **kolalılık** | starchness |
 | **kolan** | girth |

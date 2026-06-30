@@ -316,7 +316,6 @@
 | **lap** | lap |
 | **lap diye** | in a jiffy |
 | **lap lap** | lap by lap |
-| **lap lap** | lap by lap |
 | **lapa** | porridge |
 | **lapa gibi** | mushy |
 | **lapa lapa** | flaky |

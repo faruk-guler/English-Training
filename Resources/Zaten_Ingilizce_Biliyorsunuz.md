@@ -20,7 +20,6 @@
 | Aktivite | Activity |
 | Aktris | Actress |
 | Aktör | Actor |
-| Aktüel | Actual |
 | Akustik | Acoustic |
 | Akvaryum | Aquarium |
 | Alarm | Alarm |
@@ -62,7 +61,6 @@
 | Antipati | Antipathy |
 | Antiseptik | Antiseptic |
 | Apandisit | Appendicitis |
-| Apartman | Apartment |
 | Arap | Arab |
 | Arena | Arena |
 | Aristokrasi | Aristocracy |
@@ -99,9 +97,9 @@
 | Bambu | Bamboo |
 | Bandaj | Bandage |
 | Banka | Bank |
-| Banknot | Bill |
+| Banknot | Banknote |
 | Bar | Bar |
-| Baraj | Dam |
+| Baraj | Barrage |
 | Barbar | Barbarian |
 | Barbekü | Barbecue |
 | Barikat | Barricade |
@@ -120,7 +118,7 @@
 | Bisiklet | Bicycle |
 | Bisküvi | Biscuit |
 | Biyolog | Biologist |
-| Biyografi | Memoir |
+| Biyografi | Biography |
 | Biyopsi | Biopsy |
 | Blok | Block |
 | Bluz | Blouse |
@@ -137,15 +135,15 @@
 | Briç | Bridge |
 | Bronz | Bronze |
 | Broş | Brooch |
-| Broşür | Leaflet |
+| Broşür | Brochure |
 | Budapeşte | Budapest |
 | Budizm | Buddhism |
 | Buket | Bouquet |
 | Bungalov | Bungalow |
 | Butik | Boutique |
 | Buton | Button |
-| Bülten | Newsletter |
-| Büro | Office |
+| Bülten | Bulletin |
+| Büro | Bureau |
 | Bürokrasi | Bureaucracy |
 | Büst | Bust |
 | Caz | Jazz |
@@ -167,7 +165,7 @@
 | Demokrasi | Democracy |
 | Deodorant | Deodorant |
 | Departman | Department |
-| Depo | Warehouse |
+| Depo | Depot |
 | Depozit | Deposit |
 | Dermatoloji | Dermatology |
 | Despot | Despot |
@@ -177,7 +175,7 @@
 | Dezenfekte | Disinfect |
 | Dijital | Digital |
 | Diksiyon | Diction |
-| Diktatör | Despot |
+| Diktatör | Dictator |
 | Dinamit | Dynamite |
 | Dinamo | Dynamo |
 | Dinozor | Dinosaur |
@@ -192,7 +190,7 @@
 | Diskjokey | Disc jockey |
 | Disko | Disco |
 | Diyabet | Diabetes |
-| Diyafram | Aperture |
+| Diyafram | Diaphragm |
 | Diyagram | Diagram |
 | Diyaliz | Dialysis |
 | Diyalog | Dialogue |
@@ -225,7 +223,7 @@
 | Ekonomi | Economy |
 | Ekonomik | Economic |
 | Eksantrik | Eccentric |
-| Eksper | Connoisseur |
+| Eksper | Expert |
 | Ekspres | Express |
 | Ekstra | Extra |
 | Ekvator | Equator |
@@ -240,8 +238,8 @@
 | Endokrin | Endocrine |
 | Endonezya | Indonesia |
 | Endüstri | Industry |
-| Enerji | Power |
-| Enerjik | Dynamic |
+| Enerji | Energy |
+| Enerjik | Energetic |
 | Enfeksiyon | Infection |
 | Enformasyon | Information |
 | Enstrüman | Instrument |
@@ -271,12 +269,12 @@
 | Final | Final |
 | Finalist | Finalist |
 | Finans | Finance |
-| Fiyasko | Debacle |
+| Fiyasko | Fiasco |
 | Fizibilite | Feasibility |
 | Fizik | Physics |
 | Flamingo | Flamingo |
 | Flaş | Flash |
-| Flört | Boyfriend |
+| Flört | Flirt |
 | Flüt | Flute |
 | Fonksiyon | Function |
 | Formül | Formula |
@@ -289,7 +287,7 @@
 | Futbol | Football |
 | Galaksi | Galaxy |
 | Galeri | Gallery |
-| Gangster | Punk |
+| Gangster | Gangster |
 | Garaj | Garage |
 | Garnizon | Garrison |
 | Gaz | Gas |
@@ -303,11 +301,11 @@
 | Golf | Golf |
 | Gondol | Gondola |
 | Goril | Gorilla |
-| Grafik | Chart |
+| Grafik | Graphic / Graph |
 | Gram | Gram |
 | Gramer | Grammar |
 | Granit | Granite |
-| Grup | Band |
+| Grup | Group |
 | Hamak | Hammock |
 | Hamburger | Hamburger |
 | Handikap | Handicap |
@@ -337,10 +335,10 @@
 | Ispanya | Spain |
 | Iyon | Ion |
 | Izolasyon | Isolation |
-| İran | ? |
-| İrlanda | ? |
-| İsrail | ? |
-| İtalya | ? |
+| İran | Iran |
+| İrlanda | Ireland |
+| İsrail | Israel |
+| İtalya | Italy |
 | Jakuzi | Jacuzzi |
 | Jel | Gel |
 | Jenerasyon | Generation |
@@ -353,7 +351,7 @@
 | Jübile | Jubilee |
 | Jüri | Jury |
 | Kabare | Cabaret |
-| Kabin | Car |
+| Kabin | Cabin |
 | Kafe | Cafe |
 | Kafein | Caffeine |
 | Kahve | Coffee |
@@ -377,7 +375,7 @@
 | Kanyon | Canyon |
 | Kaos | Chaos |
 | Kapasite | Capacity |
-| Kapris | Whim |
+| Kapris | Caprice |
 | Kapsül | Capsule |
 | Kaptan | Captain |
 | Karakter | Character |
@@ -416,7 +414,7 @@
 | Koordinasyon | Coordination |
 | Kopenhag | Copenhagen |
 | Kopya | Copy |
-| Koridor | Aisle |
+| Koridor | Corridor |
 | Korner | Corner |
 | Kostüm | Costume |
 | Kovboy | Cowboy |
@@ -424,11 +422,11 @@
 | Kozmik | Cosmic |
 | Kramp | Cramp |
 | Krater | Crater |
-| Kredi | Loan |
+| Kredi | Credit |
 | Krem | Cream |
 | Kristal | Crystal |
 | Kriter | Criterion |
-| Kritik | Crucial |
+| Kritik | Critical |
 | Krom | Chrome |
 | Kronik | Chronic |
 | Lamba | Lamp |
@@ -454,7 +452,7 @@
 | Lobi | Lobby |
 | Logo | Logo |
 | Lokal | Local |
-| Lokomotif | Engine |
+| Lokomotif | Locomotive |
 | Losyon | Lotion |
 | Lüks | Luxury |
 | Lüksemburg | Luxembourg |
@@ -479,7 +477,7 @@
 | Matematik | Mathematics |
 | Materyal | Material |
 | Mayonez | Mayonnaise |
-| Maç | Game |
+| Maç | Match |
 | Medya | Media |
 | Medyum | Medium |
 | Mega | Mega |
@@ -487,7 +485,7 @@
 | Mekanik | Mechanical |
 | Meksika | Mexico |
 | Melankoli | Melancholy |
-| Melodi | Tune |
+| Melodi | Melody |
 | Mentalite | Mentality |
 | Mentol | Menthol |
 | Menü | Menu |
@@ -498,10 +496,10 @@
 | Meteoroloji | Meteorology |
 | Metot | Method |
 | Metre | Metre |
-| Metro | Subway |
-| Metropol | City |
+| Metro | Metro |
+| Metropol | Metropolis |
 | Mikrofon | Microphone |
-| Mikrop | Germ |
+| Mikrop | Microbe |
 | Mikroskop | Microscope |
 | Mikser | Mixer |
 | Milimetre | Millimetre |
@@ -518,16 +516,16 @@
 | Mitoloji | Mythology |
 | Model | Model |
 | Modem | Modem |
-| Modern | Contemporary |
+| Modern | Modern |
 | Modernize | Modernize |
 | Monitör | Monitor |
 | Monografi | Monograph |
 | Monoton | Monotonous |
-| Montaj | Installation |
+| Montaj | Montage |
 | Morfin | Morphine |
 | Moskova | Moscow |
 | Motel | Motel |
-| Motor | Engine |
+| Motor | Motor |
 | Mozaik | Mosaic |
 | Müslüman | Muslim |
 | Müze | Museum |
@@ -537,13 +535,13 @@
 | Narkotik | Narcotic |
 | Narkoz | Narcosis |
 | Natürel | Natural |
-| Naylon | Plastic |
+| Naylon | Nylon |
 | Negatif | Negative |
 | Neon | Neon |
 | Nikel | Nickel |
 | Nitrojen | Nitrogen |
 | Norm | Norm |
-| Normal | Regular |
+| Normal | Normal |
 | Nöroloji | Neurology |
 | Nötr | Neutral |
 | Nüans | Nuance |
@@ -551,7 +549,7 @@
 | Obez | Obese |
 | Obezite | Obesity |
 | Obje | Object |
-| Objektif | Lens |
+| Objektif | Objective |
 | Ofis | Office |
 | Ofsayt | Offside |
 | Okey | Okay |
@@ -574,7 +572,7 @@
 | Otel | Hotel |
 | Otobiyografi | Autobiography |
 | Otomatik | Automatic |
-| Otomobil | Car |
+| Otomobil | Automobile |
 | Oval | Oval |
 | Ozon | Ozone |
 | Pakistan | Pakistan |
@@ -602,18 +600,18 @@
 | Partizan | Partisan |
 | Partner | Partner |
 | Pasaport | Passport |
-| Pasif | Dormant |
+| Pasif | Passive |
 | Patoloji | Pathology |
 | Patates | Potato |
 | Patent | Patent |
-| Pazar | Sunday |
+| Pazar | Bazaar |
 | Pedagoji | Pedagogy |
 | Pedal | Pedal |
 | Pediatri | Pediatrics |
 | Pelikan | Pelican |
 | Penguen | Penguin |
 | Penisilin | Penicillin |
-| Personel | Staff |
+| Personel | Personnel |
 | Perspektif | Perspective |
 | Pijama | Pajamas |
 | Piknik | Picnic |
@@ -650,7 +648,7 @@
 | Profesör | Professor |
 | Profesyonel | Professional |
 | Profil | Profile |
-| Program | Schedule |
+| Program | Program |
 | Proje | Project |
 | Projektör | Projector |
 | Protesto | Protest |
@@ -702,8 +700,6 @@
 | Sektör | Sector |
 | Sembol | Symbol |
 | Seminer | Seminar |
-| Sempati | Sympathy |
-| Sempatik | Sympathetic |
 | Semptom | Symptom |
 | Senkron | Synchronous |
 | Seramik | Ceramic |
@@ -731,8 +727,8 @@
 | Sofya | Sofia |
 | Solaryum | Solarium |
 | Sos | Sauce |
-| Sosis | Variety |
-| Sosyal | Gregarious |
+| Sosis | Sausage |
+| Sosyal | Social |
 | Sosyalist | Socialist |
 | Spazm | Spasm |
 | Spesifik | Specific |
@@ -752,7 +748,7 @@
 | Stok | Stock |
 | Stres | Stress |
 | Suşi | Sushi |
-| Süper | Fabulous |
+| Süper | Super |
 | Sürpriz | Surprise |
 | Tablet | Tablet |
 | Tahran | Tehran |
@@ -795,7 +791,7 @@
 | Turist | Tourist |
 | Turistik | Touristic |
 | Turizm | Tourism |
-| Tuvalet | Restroom |
+| Tuvalet | Toilet |
 | Tünel | Tunnel |
 | Türkmenistan | Turkmenistan |
 | Ukrayna | Ukraine |
@@ -831,7 +827,7 @@
 | Zebra | Zebra |
 | Zodyak | Zodiac |
 | Çakal | Jackal |
-| Çek | Pull |
+| Çek | Check / Cheque |
 | Çikolata | Chocolate |
 | Üniforma | Uniform |
 | Ünite | Unit |
@@ -843,13 +839,13 @@
 | Şampanya | Champagne |
 | Şampiyon | Champion |
 | Şampuan | Shampoo |
-| Şarlatan | Quack |
+| Şarlatan | Charlatan |
 | Şef | Chief |
 | Şerif | Sheriff |
-| Şoför | Driver |
+| Şoför | Chauffeur |
 | Şok | Shock |
 | Şort | Shorts |
 | Şov | Show |
-| Şovmen | Entertainer |
+| Şovmen | Showman |
 | Şurup | Syrup |
-| Şut | Smash |
+| Şut | Shoot / Shot |

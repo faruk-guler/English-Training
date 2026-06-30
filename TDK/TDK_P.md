@@ -1235,7 +1235,7 @@
 | **pekiştirme ünsüzü** | intensifying consonant |
 | **pekiştirme vurgusu** | emphasis on reinforcement |
 | **pekiştirmek** | reinforce |
-| **pekiştirmeli** | must reinforce |
+| **pekiştirmeli** | reinforced / intensive / emphatic |
 | **pekiştirmeli özne** | reinforced subject |
 | **pekiştirmeli sıfat** | reinforced adjective |
 | **pekiştirmeli zarf** | reinforced adverb |
@@ -1542,7 +1542,6 @@
 | **pervasızcasına** | recklessly |
 | **pervasızlık** | recklessness |
 | **pervaz** | molding |
-| **pervaz etmek** | to jam |
 | **pervaz etmek** | to jam |
 | **pervazlı** | jambed |
 | **pervazsız** | without sills |

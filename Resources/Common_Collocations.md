@@ -102,8 +102,8 @@
 | make a noise | gürültü yapmak |
 | make a reservation | rezervasyon yaptırmak |
 | make an effort | çaba göstermek |
-| make an excuse | bahane uretmek |
-| make friend | arkadaş edinmek |
+| make an excuse | bahane üretmek |
+| make friends | arkadaş edinmek |
 | make money | para kazanmak |
 | make progress | ilerleme kaydetmek |
 | make progress in | bir konuda ilerleme kaydetmek |

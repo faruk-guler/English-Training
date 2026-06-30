@@ -265,24 +265,24 @@
 | **namusunu temizlemek** | to clean one's honor |
 | **namusuyla yaşamak** | to live with honor |
 | **namünasip** | improper |
-| **namüsait** | dishonorable |
+| **namüsait** | unfavorable / unsuitable / inconvenient |
 | **namütenahi** | indefinitely |
-| **namütenahilik** | immaturity |
+| **namütenahilik** | infiniteness / boundlessness |
 | **namzet** | candidate |
-| **namzet göstermek** | show reputation |
-| **namzetlik** | nominate |
-| **nan** | nan |
-| **nanay** | Nanay |
+| **namzet göstermek** | to nominate (as a candidate) |
+| **namzetlik** | candidacy / nomination (noun) |
+| **nan** | bread / flatbread / naan |
+| **nanay** | none / there is none (slang) |
 | **nane** | mint |
 | **nane ruhu** | mint spirit |
 | **nane suyu** | mint juice |
 | **nane şekeri** | mint candy |
-| **nane yemek** | eat mint |
+| **nane yemek** | to make a blunder / do something foolish (slang) |
 | **naneli** | minty |
-| **nanelik** | mint |
-| **nanemolla** | mintmolla |
+| **nanelik** | mint garden / place where mint is grown |
+| **nanemolla** | delicate / sickly / coddled person |
 | **nanesiz** | without mint |
-| **nanıaziz** | naniaziz |
+| **nanıaziz** | bread (literally sacred bread) |
 | **nanik** | petty |
 | **nanik yapmak** | make a fool |
 | **nanikleme** | don't give a fuck |
@@ -635,7 +635,6 @@
 | **nefaset** | breathtaking |
 | **nefaset bedeli** | price of breath |
 | **nefer** | nefer |
-| **nefes** | breath |
 | **nefes** | breath |
 | **nefes aldırmamak** | not breathing |
 | **nefes almak** | breathe |

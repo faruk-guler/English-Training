@@ -5103,7 +5103,7 @@
 | **dönme dolap** | ferris wheel |
 | **dönme ekseni** | axis of rotation |
 | **dönmek** | turn |
-| **dönmeli** | must return |
+| **dönmeli** | with rotation / revolving / swivel |
 | **dönmelik** | rotation |
 | **dönük** | facing |
 | **dönülme** | return |

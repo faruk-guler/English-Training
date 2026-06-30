@@ -436,7 +436,7 @@
 | **içlilik** | sincerity |
 | **içme** | drinking |
 | **içme suyu** | drinking water |
-| **içmece** | İçcece |
+| **içmece** | spa / mineral spring |
 | **içmek** | drink |
 | **içörgü** | intertwine |
 | **içre** | inside |

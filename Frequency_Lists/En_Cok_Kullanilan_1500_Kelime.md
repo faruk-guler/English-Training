@@ -1,6 +1,6 @@
-# Ä°ngilizcede En Ã‡ok KullanÄ±lan 1500 Kelime
+# İngilizcede En Çok Kullanılan 1500 Kelime
 
-## En Ã‡ok KullanÄ±lan Kelimeler
+## En Çok Kullanılan Kelimeler
 
 | İngilizce | Türkçe |
 | :--- | :--- |
@@ -9,7 +9,7 @@
 | Abuse | Kötüye Kullanma, Suistimal Etme, Kötü Söyleme |
 | Academic | Akademik |
 | Accelerator | Gaz Pedalı |
-| Accent | Åive, Aksan |
+| Accent | Şive, Aksan |
 | Access | 1)Giriş 2)Yol |
 | Accessible | 1)İçine Girilebilinir 2)Kolay Bulunur |
 | Accumulate | Toplamak, Biriktirmek |
@@ -23,7 +23,7 @@
 | Acquire | Edinmek |
 | Acquisition | Edinme, İstimlak, El Koyma |
 | Brake | Frenlemek, Fren |
-| Branch | 1)Dal 2)Åube, Kol |
+| Branch | 1)Dal 2)Şube, Kol |
 | Brand-New | Yeni Model, Yepyeni |
 | Break Down | 1)Çöküş 2)Ayırma, Sınıflama, Detaylandırma |
 | Break-Out | 1)Aniden Başlama, Patlak Verme(Savaş)2)Kaçmak(Hapis) |
@@ -80,7 +80,7 @@
 | Carrier | Taşıyıcı |
 | Carrot | Havuç |
 | Carryover | Devir |
-| Cartridge | Kartuş, Åarjör |
+| Cartridge | Kartuş, Şarjör |
 | Cash-Register | Yazar Kasa |
 | Casual | 1)Planlanmıyan (Casual Meeting) 2)Normal, Sade |
 | Caterpillar | Tırtıl |
@@ -91,7 +91,7 @@
 | Article Of Association | Ana Sözleşme |
 | Aspect | Görünüş, Görüş, Hal, Çehre, Durum |
 | Asset | Varlık |
-| Association | Cemiyet, Birlik,Aynı Åeyle İlgili Olan |
+| Association | Cemiyet, Birlik,Aynı Şeyle İlgili Olan |
 | Assure | Temin Etmek, Söz Vermek, İkna Etmek |
 | Assured | 1)Önceden Belli 2)Kendine Güvenen |
 | Attachment | İlave, Ek |
@@ -114,10 +114,10 @@
 | Central | Merkezi |
 | Cereal | Tahıl, Mısır |
 | Chamber | Oda (Chamber Of Commerce = Ticaret Odası Vb.) |
-| Champagne | Åampanya |
+| Champagne | Şampanya |
 | Channel | Kanal (Tv, Radyo Gibi.) |
 | Chapter | Bölüm, Konu |
-| Charlatan | Åarlatan |
+| Charlatan | Şarlatan |
 | Chart | Tablo,Çizelge |
 | Charter | 1)Patent,Berat,Devlet Onaylı 2)Kiralık Uçak,Gemi Vb. |
 | Chase | Kovalamak |
@@ -143,8 +143,8 @@
 | Blister | Kabarcık |
 | Blockade | Ablukaya Alma |
 | Blouse | Bluz |
-| Cheerful | Neşeli,Åen,Mutlu |
-| Chef | Ahçı,Åef (Yalnız Yiyecek Konusunda ) |
+| Cheerful | Neşeli,Şen,Mutlu |
+| Chef | Ahçı,Şef (Yalnız Yiyecek Konusunda ) |
 | Cheque | Çek |
 | Chest | 1)Göğüs 2)Sandık |
 | Chest Of Drawers | Çekmeceli Dolap, Konsül |
@@ -198,7 +198,7 @@
 | Detach | Ayırmak |
 | Detective | Dedektif |
 | Dew | Kırağı (Nem) |
-| Diagram | Åema, Diyagram |
+| Diagram | Şema, Diyagram |
 | Diameter | Çap |
 | Dice | Zarlar ( Tavla ) |
 | Diet | Rejim, Diyet |
@@ -211,7 +211,7 @@
 | Compensa- tion | Telafi,Tazminat |
 | Complica- ted | Karışık,Komplike |
 | Component | Unsur, Parça, Bileşimde Bulunan |
-| Compose | Yapım (Åiir,Åarkı,Sanat Eseri) |
+| Compose | Yapım (Şiir,Şarkı,Sanat Eseri) |
 | Compromi- se | Uzlaşma |
 | Computer | Kompütür,Bilgisayar |
 | Concentra- te | Konsantre,Yoğun |
@@ -422,12 +422,12 @@
 | Endorsement | Tastik,Onay,Cıro |
 | Inevitable | Kaçınılmaz, Herhalde Olan |
 | Infinite | Sonsuz |
-| Inflate | Åişmek |
+| Inflate | Şişmek |
 | Inflation | Enflasyon |
 | Inflexible | Eğilmesi Zor, Bükülmez, İnatçı |
 | Initial | İlk Harf, Birinci, Baştaki,Paraf |
 | Initiative | İlk Hareket, Başlatma, İnsiyatif (Take The İnitiative) |
-| Inject | Åırınga Yapmak |
+| Inject | Şırınga Yapmak |
 | Insecure | Emniyetsiz |
 | Insolvent | Müflis |
 | Inspire | Akla, Fikre Getirme, Esinleme, İlham Gelmesi |
@@ -502,13 +502,13 @@
 | Hinge | 1)Menteşe 2)Dayanak Noktası, Destek, 3)Esas |
 | Kidney | Böbrek |
 | Kin | Aile, Akraba |
-| Knight | Silahşör, Åovalye, Satrançta At |
+| Knight | Silahşör, Şovalye, Satrançta At |
 | Knob | Tokmak, Tutacak |
 | Label | Etiket |
 | Laboratory | Laboratuvar |
 | Ladle | Kepçe (Yemek) |
 | Lampshade | Abajur |
-| Lane | Dar Yol, Åerit (Oto Yolda Vb.) |
+| Lane | Dar Yol, Şerit (Oto Yolda Vb.) |
 | Lash | Kamçı, Birşeyi Ani Ve Hızlı Sallamak |
 | Launch | Birşeye Başlamak, Roket Fırlatmak |
 | Laundry- Basket | Çamaşır Sepeti |
@@ -577,12 +577,12 @@
 | Meadow | Çayır, Mera |
 | Medical | Tıbbi |
 | Merely | Sadece, Ancak |
-| Merge | Birleşerek Kaybolma, Konsolidasyon (Åirket, Devlet) |
+| Merge | Birleşerek Kaybolma, Konsolidasyon (Şirket, Devlet) |
 | Merit | Haketmek, Değmek |
 | Might | 1)Kuvvet,Kudret 2)Belki (Might Be:Az İhtimalli.) |
 | Mike | Mikrofon |
 | Mild | 1)Hafif 2)Yumuşak 3)Ilık |
-| Pasta | Makarna (Hamurdan Yapılan Åeyler) |
+| Pasta | Makarna (Hamurdan Yapılan Şeyler) |
 | Paste | Beyaz Tutkal, Macun, Hamur |
 | Pastime | Hoş İyi Zaman |
 | Path | Patika, Küçük Yol |
@@ -590,7 +590,7 @@
 | Patron | 1)Destekleyici Kişi 2)Devamlı Müşteri |
 | Paw | Hayvan Pençesi |
 | Pea | Bezelye |
-| Peach | Åeftali |
+| Peach | Şeftali |
 | Peak | Zirve, Tepe |
 | Peanut | Yer Fıstığı |
 | Pearl | İnci |
@@ -657,7 +657,7 @@
 | Nasty | Pis, Kötü Kokulu, Hoş Olmayan |
 | Naughty | Yaramaz (Naughty Child = Yaramaz Ρocuk) |
 | Needless | Lüzumsuz |
-| Network | Åebeke,Çalışma Ağı |
+| Network | Şebeke,Çalışma Ağı |
 | Nickname | Takılmış Ad, Lakap |
 | Nightmare | Kabus |
 | Nominate | 1)Aday Göstermek(Başkan V.B) 2)Atamak,Görevlen dirme |
@@ -668,7 +668,7 @@
 | Nylon | Naylon |
 | Poverty | Fakirlik |
 | Power Of Attorney | Vekaletname |
-| Power-House | 1)Elektrik Santralı 2)Olağanüstü Enerjiye Sahip Åey |
+| Power-House | 1)Elektrik Santralı 2)Olağanüstü Enerjiye Sahip Şey |
 | Precious | Kıymetli, Çok Sevilen |
 | Precisely | Kesinlikle, Tam Manasıyla |
 | Preserve | Korumak,Konserve Yapmak |
@@ -680,7 +680,7 @@
 | Prohibit | Yasaklamak |
 | Promote | 1)İlerleme,Terfi Etme 2)Tanıtım(Ürün Vb.Satış İρin) |
 | Promotion | Terfi |
-| Propeller | 1)İleriye Yürüten Åey 2)Vapur Veya Uçak Pervanesi |
+| Propeller | 1)İleriye Yürüten Şey 2)Vapur Veya Uçak Pervanesi |
 | Proportion | Orantı |
 | Prosecute | Takip Etmek, Kavuşturmak, Dava Açmak, Suçlamak |
 | Prostitution | Fuhuş |
@@ -754,11 +754,11 @@
 | Slice | Dilim, Dilimlemek |
 | Slipper | Terlik |
 | Slot | Uzun, Düz Delik, Boşluk, Jeton Koyma Yeri Vb. |
-| Smart | 1)Akıllı 2)Açıkgöz 3)Åık |
+| Smart | 1)Akıllı 2)Açıkgöz 3)Şık |
 | Smuggle | Kaçakçılık (Gümrük,İρki,Esrar V.B.) |
 | Snag | Pürüz |
 | Snub | Küçümsemek, Hakir Görmek |
-| So Far | Åimdiye Kadar (=Up To Now) |
+| So Far | Şimdiye Kadar (=Up To Now) |
 | Soak | Islatmak |
 | Soccer | Futbol |
 | Social | Sosyal |
@@ -786,7 +786,7 @@
 | Safari | Safari, Hayvan Avlama Yolculuğu |
 | Sophisticated | İncelikli Sosyal Hayattan Bilgisiolan,Ukala,Karışık |
 | Souvenir | Hatıra |
-| Span | 1) İki Limit Arasındaki Åey, Zaman Vb. 2) Karış |
+| Span | 1) İki Limit Arasındaki Şey, Zaman Vb. 2) Karış |
 | Spanner | Somun Sıkma Aleti(Adjustable Spanner=İngiliz Anahtar |
 | Spectacular | Görülmeye Değer |
 | Speedometer | Hızölçer |
@@ -881,7 +881,7 @@
 | Suspend | Askıya Almak, Durdurmak |
 | Suspension | Asma,Asılma (Suspensıon Brıdge : Asma Köprü) |
 | Shallow | Sığ |
-| Shampoo | Åampuan, Baş Yıkamak |
+| Shampoo | Şampuan, Baş Yıkamak |
 | Shark | Köpek Balığı |
 | Sharp Shooter | Keskin Nişancı |
 | Shave | Tıraş |
@@ -898,15 +898,15 @@
 | Sincere | İçten, Samimi, Sahte Olmayan |
 | Temple | Tapınak |
 | Temporary | Geçici |
-| Tempt | Cezbetmek, Åeytana Uydurmak |
+| Tempt | Cezbetmek, Şeytana Uydurmak |
 | Tenant | Kiracı |
 | Tend | Meyilli Olmak |
-| Suspicion | Åüphe |
+| Suspicion | Şüphe |
 | Swan | Kuğu |
 | Sweat | Ter,Terlemek |
 | Sweater | Süveter |
-| Swollen | Åişmiş |
-| Syrup | Åurup |
+| Swollen | Şişmiş |
+| Syrup | Şurup |
 | Taboo | Ayıp, Argo, Tabu |
 | Talent | 1)Kabiliyet (Üstün) 2)Seksi Cazibesi Olan Kadın |
 | Tan | Ten Rengi |
@@ -917,7 +917,7 @@
 | Tease | 1)Kızdırma,Yüz Verip Sonra Sırt Çevirme2)Kabartma(Sa |
 | Technique | Teknik |
 | Teenager | 13-19 Yaş Arası |
-| Urban | Åehirsel, Kente Ait (Urban Life : Åehirsel Yaşam) |
+| Urban | Şehirsel, Kente Ait (Urban Life : Şehirsel Yaşam) |
 | V.I.P. | (Very Important Person), Çok Önemli Kişi |
 | Vacation | Tatil |
 | Vacuum Cleaner | Elektrik Süpürgesi |
@@ -976,7 +976,7 @@
 | Tough | Zor, Güç, Sert |
 | Tournament | Turnuva |
 | Tragedy | Trajedi |
-| Transform | Bir Åeyin Åeklini Değiştirmek |
+| Transform | Bir Şeyin Şeklini Değiştirmek |
 | Transparent | Saydam |
 | Trap | Tuzak, Kapan, Yakalamak |
 | Tremendous | Çok Büyük, Harika |
@@ -1008,7 +1008,7 @@
 | What's Its (His/Her) Name | Bilmem Kim (Birisinin Adını Unutma) |
 | What's More | Bunun Yanısıra, Üstelik |
 | What's What | İşin Önemini Bilmek (I Know What's What) |
-| Wheel | Tekerlek, Çark, Tekerlekli Bir Åeyi Elle İtmek |
+| Wheel | Tekerlek, Çark, Tekerlekli Bir Şeyi Elle İtmek |
 | Whim | Kapris |
 | Turnover | Ciro (Satıs) |
 | Typist | Daktiloda Yazı Yazan Kimse |
@@ -1068,19 +1068,19 @@
 | turn down (2) | Reddetmek, geri çevirmek | He applied for a promotion twice this year, but he was turned / down both times. / “Bu yıl iki kez terfi etmek için talepte bulundu ama her defasında / geri çevrildi.” |
 | turn up | Bir şeyin sesini yükseltmek | Grandpa couldn't hear, so he turned up his hearing aid. / “Büyük babam duyamadığı için kulaklığının sesini açtı.” |
 | turn off | Elektriği kapamak | We turned off the lights before anyone could see us. / “Kimse bizi görmeden ışığı söndürdük.” |
-| turn off (2) | Mide bulandırmak, tiksindirmek | It was a disgusting movie. It really turnedme off. / “O kadar kötü filmdi ki midem bulandı.” |
+| turn off (2) | Mide bulandırmak, tiksindirmek | It was a disgusting movie. It really turned me off. / “O kadar kötü filmdi ki midem bulandı.” |
 | turn on | Elektriği açmak | Turn on the CD player so we can dance. / “CD çaları açta dans edelim.” |
 | use up | boşaltmak | The gang members used up all the money and went out to rob some / more banks. / “Gangsterler bütün parayı boşalttılar ve birkaç banka daha soymak / için gittiler.” |
-| call on (2) | Ziyaret etmek | The old minister continued to call onhis sick parishioners. / “Eski başkan, hasta kilise cemiyeti üyelerini ziyaret etmeye devam / etti.” |
+| call on (2) | Ziyaret etmek | The old minister continued to call on his sick parishioners. / “Eski başkan, hasta kilise cemiyeti üyelerini ziyaret etmeye devam / etti.” |
 | get over | Bir hastalığı atlatmak veya bir hayal kırıklığının üstesinden gelmek | I got over the flu, but I don't know if I'll ever get over my broken / heart. / “Nezleyi atlattım ama kırılan kalbimi onarabilecek miyim, hiç / bilmiyorum.” |
 | go over | Yeniden incelemek, gözden geçirmek | The students went over the material before the exam. They should / have gone over it twice. / “Öğrenciler sınavdan önce konuları tekrar gözden geçirdiler. İki kez / bakmalıydılar..” |
-| look after | İlgilenmek, bakmak | My mother promised to look aftermy dog while I was gone. / “Annem ben yokken köpeğime bakacağına söz verdi.” |
+| look after | İlgilenmek, bakmak | My mother promised to look after my dog while I was gone. / “Annem ben yokken köpeğime bakacağına söz verdi.” |
 | look into | Araştırmak, incelemek | The police will look into the possibilities of embezzlement. / “Polis zimmete para geçirme olasılıklarını araştıracak.” |
 | run across | rastlamak | I ran across my old roommate at the college reunion. / “Eski oda arkadaşımla kolej yemeğinde karşılaştım.” |
 | run into | Karşılaşmak, rast gelmek | Carlos ran into his English professor in the hallway. / “Carlos İngilizce profesörüyle koridorda karşılaştı.” |
-| take after | benzemek | My second son seems to take afterhis mother. / “Ortanca oğlum annesine benziyor.” |
+| take after | benzemek | My second son seems to take after his mother. / “Ortanca oğlum annesine benziyor.” |
 | wait on | Servis yapmak | It seemed strange to see my old boss wait on tables. / “Eski patronumu masalara servis yaparken görmek çok tuhaftı.” |
-| reak in on | Bir sohbeti bölmek | I was talking to Mom on the phone when the operator broke in / on our call. / “Operatör konuşmamızı kestiği zaman telefonda annemle / konuşuyordum.” |
+| break in on | Bir sohbeti bölmek | I was talking to Mom on the phone when the operator broke in / on our call. / “Operatör konuşmamızı kestiği zaman telefonda annemle / konuşuyordum.” |
 | catch up with | Yakın olmak | After our month-long trip, it was time to catch up with the neighbors / and the news around town. / “Aylar süren yolculuğumuzdan sonra, komşulara ve kasaba / çevresine yakın olup onlardan haber almanın vakti gelmişti.” |
 | come up with | Bağışta bulunmak | After years of giving nothing, the old parishioner was able to come / up with a thousand-dollar donation. / “Eski kilise cemiyeti üyesi bin dolarlık bir bağış yaptı. Yıllardır hiçbir / bağışta bulunmamıştı.” |
 | cut down on | Kesmek, azaltmak | We tried to cut down on the money we were spending on / entertainment. / “Eğlenceye harcadığımız parayı azaltmaya çalıştık.” |
@@ -1099,19 +1099,19 @@
 | talk back to | Kaba bir şekilde cevap vermek | The star player talked back to the coach and was thrown off the / team. |
 | think back on | Yad etmek, anmak | I often think back on my childhood with great pleasure. / “Çocukluğumu sık, sık büyük bir mutlulukla anarım.” |
 | walk out on | Terk etmek, başından atmak | Her husband walked out on her and their three children. / “Kocası onu ve üç çocuğunu terketti.” |
-| ak down | bozulmak | That old Jeep had a tendency to break downjust when I needed it / the most. / “Eski cipim, ona en ihtiyacım olduğu zamanda bozuldu.” |
+| break down | bozulmak | That old Jeep had a tendency to break down just when I needed it / the most. / “Eski cipim, ona en ihtiyacım olduğu zamanda bozuldu.” |
 | catch on | tutmak | Popular songs seem to catch on in California first and then spread / eastward. / “Popüler şarkılar önce California da tutar daha sonra doğuya doğru / yayılır.” |
 | come back | Geri dönmek | Father promised that we would never come back to this horrible / place. / “Babam, bu berbat yere bir daha dönmeyeceğimize söz verdi.” |
 | come in | girmek | They tried to come in through the back door, but it was locked. / “Arka kapıdan girmeyi denediler ama kapı kilitliydi.” |
-| come to | Åuuru yerine gelmek | He was hit on the head very hard, but after several minutes, he / started to come toagain. / “Kafasını çok kötü çarptı ama birkaç dakika sonra bilinci yerine / gelmeye başladı.” |
+| come to | Şuuru yerine gelmek | He was hit on the head very hard, but after several minutes, he / started to come to again. / “Kafasını çok kötü çarptı ama birkaç dakika sonra bilinci yerine / gelmeye başladı.” |
 | drop by | Habersiz ziyaret etmek | We used to just drop by, but they were never home, so we stopped / doing that. / “Eskiden habersiz uğrardık ama onları hiç evde bulamazdık bu / yüzden artık gitmiyoruz.” |
-| eat out | Yemek için dışarıya çıkmak | When we visited Paris, we loved eating outin the sidewalk cafes. / “Paris’e gittiğimizde kaldırım kafelerinde yemek yemeye bayılırdık.” |
+| eat out | Yemek için dışarıya çıkmak | When we visited Paris, we loved eating out in the sidewalk cafes. / “Paris’e gittiğimizde kaldırım kafelerinde yemek yemeye bayılırdık.” |
 | get by | Hayatını sürdürmek | Uncle Heine didn't have much money, but he always seemed to get / by without borrowing money from relatives. / “Heine amcanın çok fazla parası yoktu ama o, akrabalarından borç / almadan da her zaman hayatını sürdürürdü.” |
 | go back | Geri dönmek | It's hard to imagine that we will ever go back to Lithuania. / “Litvanya’ya bir daha geri dönemeyeceğimizi düşünmek çok zor.” |
 | go on | Devam etmek | He would finish one Dickens novel and then just go on to the next. / “Dickens romanının birini bitirir, hemen bir sonrakine devam / ederdi.” |
 | go on (2) | Olmak, meydana gelmek | The cops heard all the noise and stopped to see what was going on. / “Polisler bütün gürültüyü duydu ve neler olduğuna bakmak için / durdu.” |
 | grow up | büyümek | Charles grew up to be a lot like his father. / “Charles tıpkı babası gibi olmak için büyüdü.” |
-| keep away | Uzak durmak | The judge warned the stalker to keep awayfrom his victim's home. / “Yargıç, suçluyu kurbanın evinden uzak durması için ikaz etti.” |
+| keep away | Uzak durmak | The judge warned the stalker to keep away from his victim's home. / “Yargıç, suçluyu kurbanın evinden uzak durması için ikaz etti.” |
 | keep on (with gerund) | Devam etmek | He tried to keep on singing long after his voice was ruined. / “Sesini iyice kaybetmeye başladıktan sonra bile şarkı söylemeye / devam etmeye çalıştı.” |
 | pass out | bayılmak | He had drunk too much; he passed out on the sidewalk outside the / bar. / “Öyle çok içmişti ki barın önündeki kaldırıma düşüp bayıldı.” |
 | show off | Gösteriş yapmak | Whenever he sat down at the piano, we knew he was going to show / off. / “Piyanonun başına ne zaman otursa, gösteriş yapacağını bilirdik.” |
@@ -1843,7 +1843,7 @@
 | Whip | kamçı; kamçılamak |
 | Wise | akıllı, akıllıca, mantıklı |
 | Wither | solmak, soldurmak, sindirmek |
-| Witness | Åahit |
+| Witness | Şahit |
 | Worthwhile | yapmaya değer, -e değer |
 | Wrinkle | buruşmak, kırışmak |
 | Yield (to) | kabul etmek, baş eğmek |

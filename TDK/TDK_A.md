@@ -22,7 +22,7 @@
 | **abajurculuk** | lampshade |
 | **abajurlu** | lampshaded |
 | **abajursuz** | without lampshade |
-| **abak** | pumpkin |
+| **abak** | abacus / lintel |
 | **abaküs** | abacus |
 | **abalı** | abali |
 | **Abana** | Abana |
@@ -47,7 +47,7 @@
 | **abanmak** | lean on |
 | **abanoz** | ebony |
 | **abanoz gibi** | like ebony |
-| **abanoz kesilmek** | cut ebony |
+| **abanoz kesilmek** | to become stiff/hard like ebony |
 | **abanozgiller** | ebony |
 | **abanozlaşıverme** | ebony |
 | **abanozlaşıvermek** | become ebony |
@@ -81,10 +81,10 @@
 | **abartmacı** | exaggeration |
 | **abartmacılık** | exaggeration |
 | **abartmak** | exaggerate |
-| **abartmalı** | must exaggerate |
+| **abartmalı** | exaggerated / hyperbolic |
 | **abartmasız** | without exaggeration |
 | **abartmasızca** | without exaggeration |
-| **abasız** | effortless |
+| **abasız** | without an aba (cloak) |
 | **abasızlık** | effortlessness |
 | **abaşo** | abasho |
 | **abaşo babafingo** | abaşo babafingo |
@@ -94,9 +94,9 @@
 | **abat** | abat |
 | **abat etmek (veya eylemek)** | to worship (or to act) |
 | **abat olmak** | to be abat |
-| **abayı sermek** | to spread the love |
+| **abayı sermek** | to settle down and refuse to leave / make oneself comfortable |
 | **abayı yakmak** | fall in love |
-| **Abaza** | horny |
+| **Abaza** | Abkhaz / Abkhazian |
 | **Abaza peyniri** | abaza cheese |
 | **Abazaca** | Abaza |
 | **abazan** | horny |
@@ -2492,7 +2492,7 @@
 | **akıtıvermek** | to pour out |
 | **akıtma** | pouring |
 | **akıtmak** | to flow |
-| **akıtmalı** | must flow |
+| **akıtmalı** | (horse) with a blaze on its forehead / type of traditional pancake |
 | **akıverme** | flow |
 | **akıvermek** | to flow |
 | **akide** | creed |
@@ -4009,7 +4009,6 @@
 | **altın böcek** | golden bug |
 | **altın çağ** | golden age |
 | **altın çağı** | golden age |
-| **altın çağını yaşamak** | living the golden age |
 | **altın çağını yaşamak** | living the golden age |
 | **altın eli bıçak kesmez** | golden hand knife does not cut |
 | **altın eşik gümüş eşiğe muhtaç olur** | The golden threshold needs the silver threshold |
@@ -6138,7 +6137,7 @@
 | **artırış** | increase |
 | **artırma** | increase |
 | **artırmak** | boost |
-| **artırmalı** | must increase |
+| **artırmalı** | incremental / progressive / with increase |
 | **artırtma** | increase |
 | **artırtmak** | increase |
 | **artış** | increase |

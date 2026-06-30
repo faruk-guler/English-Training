@@ -1209,7 +1209,6 @@
 | **sançma** | nonsense |
 | **sançmak** | to feel like |
 | **sandal** | sandal |
-| **sandal** | sandal |
 | **sandal ağacı** | sandalwood |
 | **sandalcı** | boatman |
 | **sandalcılık** | boating |
@@ -1916,7 +1915,7 @@
 | **savunma yapmak** | plead |
 | **savunmacı** | defensive |
 | **savunmak** | defend |
-| **savunmalı** | must defend |
+| **savunmalı** | defensive / with defense |
 | **savunmalık** | defensiveness |
 | **savunmasını almak** | take his defense |
 | **savunmasız** | defenseless |

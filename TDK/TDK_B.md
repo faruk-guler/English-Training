@@ -6,15 +6,15 @@
 | **b, B** | b, b |
 | **Ba** | Ba |
 | **baba** | dad |
-| **baba adam** | father man |
+| **baba adam** | mature and understanding man / reliable man |
 | **baba boyunduruğu** | father yoke |
-| **baba bucağı** | father's district |
-| **baba değil, tırabzan babası** | not the father, but the father of the banister |
+| **baba bucağı** | family home / hometown |
+| **baba değil, tırabzan babası** | a father who does not care for his children / figurehead father |
 | **baba diyarı** | father land |
-| **baba dostu** | father friendly |
-| **baba hindi** | daddy turkey |
-| **baba hindi gibi kabarmak** | fluff up like a daddy turkey |
-| **baba koruk (veya erik) yer, oğlunun dişi kamaşır** | The father eats grapes (or plums), his son's teeth are dazzled |
+| **baba dostu** | friend of one's father / family friend |
+| **baba hindi** | tom turkey / turkey |
+| **baba hindi gibi kabarmak** | to puff up like a turkey (swell with pride or anger) |
+| **baba koruk (veya erik) yer, oğlunun dişi kamaşır** | The father eats sour grapes and the son's teeth are set on edge |
 | **baba malı tez tükenir, evlat gerek kazana** | Father's wealth runs out quickly, a child needs to earn |
 | **baba mirası** | father's legacy |
 | **baba nasihati** | father's advice |
@@ -25,65 +25,65 @@
 | **baba soylu** | paternal noble |
 | **baba soyluluk** | paternal nobility |
 | **baba tarafı** | paternal side |
-| **baba tatlısı** | daddy sweet |
+| **baba tatlısı** | rum baba / baba (type of sweet pastry) |
 | **baba vergisi görümlük, koca vergisi doyumluk** | father's tax on marriage, husband's tax on satisfaction |
 | **baba yadigârı** | father's heirloom |
-| **baba yarısı** | father half |
+| **baba yarısı** | paternal uncle / someone who acts like a father |
 | **baba yerli** | father native |
 | **baba yerlilik** | father's locality |
-| **baba yurdu** | father's dormitory |
+| **baba yurdu** | fatherland / homeland |
 | **babaanne** | grandmother |
 | **babaannelik** | grandmotherhood |
 | **babaca** | fatherly |
-| **babacan** | fatherly |
+| **babacan** | jovial / genial / good-natured |
 | **babacanca** | fatherly |
-| **babacanlaşma** | paternalism |
-| **babacanlaşmak** | become fatherly |
-| **babacanlık** | paternalism |
+| **babacanlaşma** | becoming genial/jovial (noun) |
+| **babacanlaşmak** | to become genial/jovial |
+| **babacanlık** | geniality / jovialness |
 | **babacı** | fatherly |
-| **babacığımcılık** | paternalism |
+| **babacığımcılık** | excessive affection to one's father (slang) |
 | **babacık** | dad |
 | **babacıl** | paternalistic |
-| **babacılık** | paternalism |
+| **babacılık** | bias towards one's father / paternalism |
 | **babaç** | daddy |
 | **babaçko** | Babaçko |
 | **Babadağ** | Babadag |
 | **babadan kalma** | inheritance |
 | **Babaeski** | Babaeski |
 | **babaevi** | father's house |
-| **babafingo** | dadfingo |
+| **babafingo** | topgallant mast (nautical) |
 | **Babagân** | Babagan |
 | **Babai** | Babai |
 | **Babailik** | Babaism |
 | **babaköş** | Babaköş |
-| **babalanabilme** | fatherhood |
-| **babalanabilmek** | to be a father |
-| **babalanma** | fatherhood |
-| **babalanmak** | to become a father |
+| **babalanabilme** | ability to bluster / bully / assume a threatening attitude |
+| **babalanabilmek** | to be able to bluster / bully / assume a threatening attitude |
+| **babalanma** | blustering / bullying / assuming a threatening attitude (noun) |
+| **babalanmak** | to bluster / bully / assume a threatening attitude |
 | **Babalar** | fathers |
 | **babalı** | with father |
 | **babalık** | fatherhood |
 | **babalık davası** | paternity case |
 | **babalık etmek** | to be a father |
-| **babalık fırın has işler** | fatherhood bakery special works |
+| **babalık fırın has işler** | fatherhood requires sacrifice / hard work |
 | **babam sağ olsun** | thank you my father |
 | **babam!** | my father! |
 | **babamın adı Hıdır, elimden gelen budur** | My father's name is Hıdır, this is what I can do |
 | **babana rahmet** | God bless your father |
 | **babanın sanatı oğla mirastır** | The father's art is inherited by the son |
-| **babasına rahmet okutmak** | have mercy on his father |
-| **babasından mal kalan, merteği içinden bitmiş sanır** | He who inherits wealth from his father thinks that the beam has grown from within |
+| **babasına rahmet okutmak** | to be so bad as to make one prefer the previous bad one |
+| **babasından mal kalan, merteği içinden bitmiş sanır** | He who inherits wealth thinks money is easily gained |
 | **babasının (veya babalarının) çiftliği** | his father's (or fathers') farm |
 | **babasının hayrına** | for the sake of his father |
 | **babasının kızı** | daddy's girl |
 | **babasının oğlu** | father's son |
 | **babasız** | fatherless |
-| **babasız oğlan doğurmak** | giving birth to a fatherless son |
+| **babasız oğlan doğurmak** | to claim to achieve something impossible or miraculous |
 | **babasızlık** | fatherlessness |
-| **babatorik** | paternal |
+| **babatorik** | large bonito fish / big boss (slang) |
 | **Babayan** | Babayan |
 | **babayani** | Babayani |
-| **babayanilik** | paternalism |
+| **babayanilik** | simple, unpretentious way of living |
 | **babayiğit** | brave man |
 | **babayiğitçe** | valiantly |
 | **babayiğitlik** | bravery |
@@ -374,7 +374,7 @@
 | **bağışıklık kazanmak** | become immune |
 | **bağışlama** | forgiveness |
 | **bağışlamak** | absolve |
-| **bağışlamalı** | must forgive |
+| **bağışlamalı** | conditional / with donation / pardoning |
 | **bağışlamamak** | not to forgive |
 | **bağışlamasız** | unforgiving |
 | **bağışlanabilme** | forgiveness |
@@ -2781,7 +2781,7 @@
 | **bekleme süresi** | waiting time |
 | **bekleme yeri** | waiting area |
 | **beklemek** | expect |
-| **beklemeli** | must wait |
+| **beklemeli** | with waiting / standby |
 | **beklemeye almak** | put on hold |
 | **beklenebilme** | expectability |
 | **beklenebilmek** | to be expected |
