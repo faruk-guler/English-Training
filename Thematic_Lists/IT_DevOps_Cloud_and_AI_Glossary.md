@@ -1,4 +1,4 @@
-# İngilizce - Türkçe Bilişim (IT), DevOps, Bulut (Cloud) ve Yapay Zeka (AI) Terimler Sözlüğü
+# Bilişim (IT), DevOps, Bulut (Cloud) ve Yapay Zeka (AI) Terimleri
 
 Bu doküman, yazılım geliştirme, sistem operasyonları (DevOps), bulut bilişim ve yapay zeka alanlarında sıkça karşılaşılan İngilizce terimlerin Türkçe karşılıklarını ve açıklamalarını içermektedir.
 
