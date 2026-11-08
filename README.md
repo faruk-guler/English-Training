@@ -1,4 +1,4 @@
-# English | Turkish Training Exercise
+# English | Turkish Language Training Docs
 
 <img src="Images/learn-eng.jpg" alt="drawing" width="400"/>
 
