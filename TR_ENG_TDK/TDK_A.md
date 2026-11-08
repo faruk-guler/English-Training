@@ -12,9 +12,9 @@
 | **aba güreşi** | aba wrestling |
 | **aba vakti aba alan, yaba vakti yaba alan aldanmamıştır** | He who takes effort in the time of effort is not deceived. |
 | **aba vakti yaba, yaba vakti aba** | It's time for yaba, it's time for yaba for yaba |
-| **abacı** | abaci |
+| **abacı** | maker or seller of coarse wool cloth |
 | **abacı kebeci (ara yerde) sen neci?** | abacı kebeci (in between) what are you? |
-| **abacılık** | aboriginal |
+| **abacılık** | making of coarse wool cloth (aba) |
 | **abadi** | abadi |
 | **abadi kâğıt** | abadi paper |
 | **abajur** | lampshade |
@@ -24,7 +24,7 @@
 | **abajursuz** | without lampshade |
 | **abak** | abacus / lintel |
 | **abaküs** | abacus |
-| **abalı** | abali |
+| **abalı** | wearing coarse wool coat; (fig.) scapegoat, victim |
 | **Abana** | Abana |
 | **abanabilme** | ability to lean on |
 | **abanabilmek** | to lean on |
@@ -109,9 +109,9 @@
 | **abdal ata binince bey oldum sanır, şalgam aşa girince yağ oldum sanır** | When an abdal rides a horse, he thinks he has become a lord, when he gets on a turnip horse, he thinks he has become butter. |
 | **abdal düğünden, çocuk oyundan usanmaz** | Abdal never gets tired of weddings, children never get tired of playing |
 | **abdal tekkede, hacı Mekke'de bulunur** | Abdal is in the lodge, pilgrim is in Mecca |
-| **abdala \** | abdala\ |
+| **abdala "kar yağıyor" demişler, "titremeye hazırım" demiş** | They told the dervish "it's snowing", he said "I am ready to shiver" |
 | **abdala malum olur** | Abdala becomes known |
-| **abdalımsı** | abdomen |
+| **abdalımsı** | dervish-like, fool-like, eccentric |
 | **abdalın dostluğu köy görününceye kadar** | Abdal's friendship until the village appears |
 | **abdalın karnı doyunca gözü pabucundadır (veya yolda olur)** | When the abdal is full, his eyes are on his shoes (or on the road) |
 | **abdallık** | absolutism |
@@ -1389,7 +1389,7 @@
 | **ağabey** | older brother |
 | **ağabeylik** | elder brotherhood |
 | **ağabeylik etmek (veya yapmak)** | to be (or act as) a big brother |
-| **ağaca balta vurmuşlar \** | They hit the tree with an ax |
+| **ağaca balta vurmuşlar "sapı bedenimden" demiş** | They struck the tree with an ax, it said "its handle is from my own wood" |
 | **ağaca çıkan keçinin dala bakan oğlağı olur** | The goat that climbs the tree becomes the kid that looks at the branch |
 | **ağaca çıksa pabucu yerde kalmaz** | If he climbs a tree, his shoes won't stay on the ground |
 | **ağaca dayanma kurur, adama (veya insana) dayanma ölür** | Don't lean on a tree it will dry up, don't lean on a man (or people) it will die |
@@ -6025,7 +6025,7 @@
 | **arsız arsız** | cheeky cheeky |
 | **arsızca** | blatant |
 | **arsızcasına** | shamelessly |
-| **arsızın yüzüne tükürmüşler, \** | They spat in the cheeky man's face, |
+| **arsızın yüzüne tükürmüşler, "yağmur yağıyor" demiş** | They spat in the shameless man's face, he said "it's raining" |
 | **arsızlanma** | impudence |
 | **arsızlanmak** | to be cheeky |
 | **arsızlaşabilme** | ability to be cheeky |
@@ -8212,7 +8212,7 @@
 | **aza** | member |
 | **aza çoğa bakmamak** | not to look at more or less |
 | **aza kanaat etmeyen çoğu hiç bulamaz** | Many who are not content with little will never find anything |
-| **aza sormuşlar: \** | They asked the member:\ |
+| **aza sormuşlar: "Nereye?" "Çoğun yanına" demiş** | They asked the few: "Where are you going?", they said "to join the many" |
 | **azabilme** | ability to get horny |
 | **azabilmek** | to get horny |
 | **azade** | free |
@@ -8400,17 +8400,3 @@
 | **Azrail'in elinden kurtulmak** | Escape from Azrael's grasp |
 | **Azrail'le burun buruna gelmek** | Come face to face with Azrael |
 | **azvay** | azvay |
-
----
-
-## ⚠️ Bilinen eksik çeviriler (kaynak veride yarım kalmış satırlar)
-
-Bu satırlar TDK’dan aktarılırken cümlenin devamı kesilmiş; çeviri eksik.
-Kaynak veri olduğu için satır metinlerine dokunulmadı, yalnızca burada işaretlendi.
-
-| Satır no | Türkçe madde | Kaynaktaki İngilizce | Sorun |
-| :--- | :--- | :--- | :--- |
-| 112 | abdala \ | abdala\ | satır sonunda ters bölü (\) artığı; çeviri eksik/yarım |
-| 1392 | ağaca balta vurmuşlar \ | They hit the tree with an ax | satır sonunda ters bölü (\) artığı; çeviri eksik/yarım |
-| 6028 | arsızın yüzüne tükürmüşler, \ | They spat in the cheeky man's face, | atasözü/cümle yarım kesilmiş (sonunda ters bölü (\) artığı ve bekleyen devam cümlesi var) |
-| 8215 | aza sormuşlar: \ | They asked the member:\ | satır sonunda ters bölü (\) artığı; çeviri eksik/yarım |

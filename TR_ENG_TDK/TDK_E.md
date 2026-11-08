@@ -2751,7 +2751,7 @@
 | **eşeğe cilve yap demişler, çifte atmış** | They told him to flirt with a donkey, but he did it twice. |
 | **eşeğe gücü yetmeyip semerini dövmek** | Being unable to afford a donkey and beating its saddle |
 | **eşeği dama çıkaran yine kendi indirir** | He who takes the donkey to the roof, brings it down himself |
-| **eşeği düğüne çağırmışlar, \** | They invited the donkey to the wedding, |
+| **eşeği düğüne çağırmışlar, "ya su lazımdır ya odun" demiş** | They invited the donkey to the wedding, it said "either water is needed or firewood" |
 | **eşeği sahibinin dediği yere bağla da varsın kurt yesin** | Tie the donkey where its owner tells it to and let the wolf eat it. |
 | **eşeği yoldan çıkaran sıpanın oynaması** | the play of the colt that led the donkey astray |
 | **eşeğimsi** | donkey |
@@ -3590,14 +3590,3 @@
 | **ezoterik örgüt** | esoteric organization |
 | **ezoterik sembol** | esoteric symbol |
 | **ezoterizm** | esotericism |
-
----
-
-## ⚠️ Bilinen eksik çeviriler (kaynak veride yarım kalmış satırlar)
-
-Bu satırlar TDK’dan aktarılırken cümlenin devamı kesilmiş; çeviri eksik.
-Kaynak veri olduğu için satır metinlerine dokunulmadı, yalnızca burada işaretlendi.
-
-| Satır no | Türkçe madde | Kaynaktaki İngilizce | Sorun |
-| :--- | :--- | :--- | :--- |
-| 2754 | eşeği düğüne çağırmışlar, \ | They invited the donkey to the wedding, | atasözü/cümle yarım kesilmiş (sonunda ters bölü (\) artığı ve bekleyen devam cümlesi var) |

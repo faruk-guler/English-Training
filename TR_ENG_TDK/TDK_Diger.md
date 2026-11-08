@@ -22,12 +22,12 @@
 | **âdemelması** | adam's apple |
 | **âdemiyet** | non-existence |
 | **âdemoğlu** | Adamoğlu |
-| **âdet** | menstruation |
+| **âdet** | custom, tradition, habit; menstruation |
 | **âdet edinmek** | get a habit |
 | **âdet görmek** | to menstruate |
 | **âdet olduğu üzere** | as is customary |
-| **âdet olmak** | menstruation |
-| **âdet yerini bulsun diye** | in order to get the hang of it |
+| **âdet olmak** | to become a custom / habit |
+| **âdet yerini bulsun diye** | just for form's sake, to keep up appearances |
 | **âdeta** | almost |
 | **âdetgörmezlik** | amenorrhoea |
 | **âdeti veçhile** | as per custom |
@@ -38,7 +38,7 @@
 | **âlemci** | worldly |
 | **âlemcilik** | worldism |
 | **âleme verir talkını (veya telkini), kendi yutar salkımı** | He gives his talk (or suggestion) to the world, he swallows the bunch himself |
-| **âlemi var mı?** | Is there a world? |
+| **âlemi var mı?** | What is the point? Is there any need? |
 | **âlemin ağzı torba değil ki büzesin** | The mouth of the world is not a bag so that you can shrink |
 | **âlemşümul** | universal |
 | **âlemşümullük** | universality |

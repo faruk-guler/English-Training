@@ -5,43 +5,43 @@
 | İngilizce | Türkçe Karşılıkları |
 | :--- | :--- |
 | **a** | bir |
-| **a-list** | evaze |
+| **a-list** | seçkinler, A listesi, en popüler ve başarılı kişiler |
 | **aardvark** | yer domuzu, yer domuzugiller |
 | **aba wrestling** | aba güreşi |
 | **abaci** | abacı |
 | **abacus** | abak, abaküs |
 | **abadi paper** | abadi kâğıt |
-| **abali** | abalı |
+| **abalı (Turkish)** | abalı, aba giymiş; günah keçisi |
 | **abalone** | deniz kulağı, denizkulağı |
 | **abandon** | abandone, abandone etmek, aport etmek, terk, terk etmek, terkin etmek, terkisine almak, yüzüstü bırakmak |
 | **abandon oneself** | kendini bırakmak |
-| **abandoned** | mecruh, metruke |
+| **abandoned** | terk edilmiş, metruk, sahipsiz |
 | **abandoned property** | metrukât |
 | **abandonment** | bırakılabilme, bırakılmışlık, bıraktırılma, terki, vazgeçilme, vazolunma |
-| **abasho** | abaşo |
+| **abaşo (maritime)** | abaşo, alt yelken |
 | **abasho collar** | abaşo yakası |
 | **abasho gabya** | abaşo gabya |
 | **abaya** | ferace |
-| **abaza** | Abazaca |
-| **abaza cheese** | Abaza peyniri |
+| **Abaza (proper noun)** | Abazaca, Abaza halkı |
+| **Abaza cheese** | Abaza peyniri |
 | **abbess** | başrahibe, başrahibelik |
 | **abbot** | başkeşiş, başkeşişlik, başrahip |
 | **abbreviated** | kısaltmalı |
 | **abbreviation** | kısaltılma, kısaltım, kısaltış, kısaltma, kısalttırma |
 | **abbreviation name** | kısaltma ad |
-| **abdiaciz** | abdiâciz |
-| **abdomen** | abdalımsı, batın, karın, karınlama |
+| **abdiâciz (Turkish/Ottoman)** | abdiâciz, aciz kul |
+| **abdomen** | karın, batın |
 | **abdominal cavity** | karın boşluğu |
-| **abdulleziz** | abdülleziz |
-| **abdusselam herb** | abdüsselam otu |
+| **abdülleziz (botany)** | abdülleziz bitkisi |
+| **abdüsselam herb** | abdüsselam otu |
 | **abelardized** | abelardize |
 | **aberometer** | aberometre |
 | **aberrant** | aberant |
 | **aberration** | aberasyon, abuklaşma, sıra dışılık |
 | **abetment** | yataklık |
 | **abhor** | iğrenmek, tiksinmek |
-| **abihayat** | abıhayat |
-| **abikevser** | abıkevser |
+| **abıhayat (metaphor)** | abıhayat, hayat suyu |
+| **abıkevser (metaphor)** | abıkevser suyu |
 | **ability** | edebilme, itenek, kabiliyet, muktedirlik, yeti |
 | **ability to** | yapabilme |
 | **ability to absorb** | banabilme, emebilme, yumabilme |

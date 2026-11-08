@@ -907,7 +907,7 @@
 | **gelincik** | weasel |
 | **gelincikgiller** | weasel |
 | **gelinfeneri** | lantern |
-| **gelini ata bindirmişler \** | They put the bride on a horse |
+| **gelini ata bindirmişler "ya nasip" demiş** | They put the bride on a horse, she said "let us see what fate brings" |
 | **gelinkuşağı** | bridal rainbow |
 | **gelinliği tutmak** | holding the wedding dress |
 | **gelinlik** | wedding dress |
@@ -4273,14 +4273,3 @@
 | **güzlemek** | to bloom |
 | **güzlük** | autumn |
 | **güzün** | in autumn |
-
----
-
-## ⚠️ Bilinen eksik çeviriler (kaynak veride yarım kalmış satırlar)
-
-Bu satırlar TDK’dan aktarılırken cümlenin devamı kesilmiş; çeviri eksik.
-Kaynak veri olduğu için satır metinlerine dokunulmadı, yalnızca burada işaretlendi.
-
-| Satır no | Türkçe madde | Kaynaktaki İngilizce | Sorun |
-| :--- | :--- | :--- | :--- |
-| 910 | gelini ata bindirmişler \ | They put the bride on a horse | satır sonunda ters bölü (\) artığı; çeviri eksik/yarım |

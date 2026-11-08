@@ -2464,7 +2464,7 @@
 | **çiftçi** | farmer |
 | **çiftçilik** | farming |
 | **çiftçilik etmek** | to farm |
-| **çiftçinin karnını yarmışlar, kırk tane \** | They ripped open the farmer's stomach, forty |
+| **çiftçinin karnını yarmışlar, kırk tane "gelecek yıl" çıkmış** | They cut open the farmer's belly, and forty "next years" came out |
 | **çiftçiye yağmur, yolcuya kurak; cümlenin muradını verecek Hak** | Rain for the farmer, drought for the traveler; God will give the sentence its will |
 | **çifte** | dual |
 | **çifte atmak** | double take |
@@ -3670,14 +3670,3 @@
 | **çürüyüverme** | decay |
 | **çürüyüvermek** | rot away |
 | **çüş** | collapse |
-
----
-
-## ⚠️ Bilinen eksik çeviriler (kaynak veride yarım kalmış satırlar)
-
-Bu satırlar TDK’dan aktarılırken cümlenin devamı kesilmiş; çeviri eksik.
-Kaynak veri olduğu için satır metinlerine dokunulmadı, yalnızca burada işaretlendi.
-
-| Satır no | Türkçe madde | Kaynaktaki İngilizce | Sorun |
-| :--- | :--- | :--- | :--- |
-| 2467 | çiftçinin karnını yarmışlar, kırk tane \ | They ripped open the farmer's stomach, forty | satır sonunda ters bölü (\) artığı; çeviri eksik/yarım |

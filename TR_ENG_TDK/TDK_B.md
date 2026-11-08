@@ -7624,7 +7624,7 @@
 | **bülbülleşme** | nightingale |
 | **bülbülleşmek** | become a nightingale |
 | **bülbülsüz** | without nightingale |
-| **bülbülü altın kafese koymuşlar, \** | They put the nightingale in a golden cage, |
+| **bülbülü altın kafese koymuşlar, "ah vatanım" demiş** | They put the nightingale in a golden cage, it said "oh, my homeland!" |
 | **bülbülün çektiği dili belası** | the tongue scourge of the nightingale |
 | **bülbülyuvası** | nightingale nest |
 | **bülten** | newsletter |
@@ -7910,14 +7910,3 @@
 | **büzüşüklük** | puckering |
 | **büzüşüverme** | shrinkage |
 | **büzüşüvermek** | shrink |
-
----
-
-## ⚠️ Bilinen eksik çeviriler (kaynak veride yarım kalmış satırlar)
-
-Bu satırlar TDK’dan aktarılırken cümlenin devamı kesilmiş; çeviri eksik.
-Kaynak veri olduğu için satır metinlerine dokunulmadı, yalnızca burada işaretlendi.
-
-| Satır no | Türkçe madde | Kaynaktaki İngilizce | Sorun |
-| :--- | :--- | :--- | :--- |
-| 7627 | bülbülü altın kafese koymuşlar, \ | They put the nightingale in a golden cage, | atasözü/cümle yarım kesilmiş (sonunda ters bölü (\) artığı ve bekleyen devam cümlesi var) |

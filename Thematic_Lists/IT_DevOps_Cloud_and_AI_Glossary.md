@@ -17,13 +17,13 @@ Bu doküman, yazılım geliştirme, sistem operasyonları (DevOps), bulut biliş
 | **adaptation** | uyarlama |
 | **additive** | eklemeli |
 | **adversarial** | çekişmeli |
-| **advertisal network** | rakip ağ |
+| **adversarial network** | rakip ağ |
 | **agent** | etmen |
 | **Agent-based** | Ajan tabanlı (izleme modeli) |
 | **Agentless** | Ajansız (izleme modeli) |
 | **agglomerative** | birleştirmeli |
 | **Agile** | Çevik (proje yönetim metodolojisi) |
-| **AI** | artificial intelligence |
+| **AI** | Yapay zekâ (Artificial Intelligence) |
 | **Alerting** | Uyarı mekanizması |
 | **algorithm** | algoritma |
 | **alignment** | hizalama |
@@ -33,7 +33,6 @@ Bu doküman, yazılım geliştirme, sistem operasyonları (DevOps), bulut biliş
 | **ancestor** | ata |
 | **anchor** | çapa |
 | **anchor box** | çapa kutusu |
-| **and** | ve |
 | **annotation** | not |
 | **Ansible** | Yapılandırma yönetimi ve otomasyon aracı (Ansible) |
 | **API (Application Programming Interface)** | Uygulama Programlama Arayüzü |

@@ -6,10 +6,10 @@
 | accept | kabul etmek |
 | accident | kaza |
 | accommodation | konaklama |
-| account | borç hesapları |
+| account | hesap |
 | accountant | muhasebeci |
-| accounts payable | alacak hesapları |
-| accounts receivable | borçlular hesabı |
+| accounts payable | ticari borçlar, borç hesapları |
+| accounts receivable | ticari alacaklar, alacak hesapları |
 | accuse | suçlamak |
 | achievement | başarı |
 | addition | ek,ilave |
@@ -22,9 +22,9 @@
 | advertise | reklam yapmak |
 | advertisement | reklam |
 | advice | tavsiye |
-| advocate | avukat |
+| advocate | savunucu, taraftar; savunmak |
 | affair | ilişki |
-| affection | şevkat |
+| affection | şefkat |
 | afford | maddi olanağa sahip olmak |
 | afraid | korkmuş |
 | age | yaş |
